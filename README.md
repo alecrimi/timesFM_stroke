@@ -1,5 +1,5 @@
-![Static Plot]([https://i.imgur.com/your-other-image-id.png](https://github.com/alecrimi/timesFM_stroke/blob/main/llmcausality.png))
-![Animation Demo]([https://i.imgur.com/your-image-id.gif](https://github.com/alecrimi/timesFM_stroke/blob/main/bezierplot.gif))
+![Static Plot](https://github.com/alecrimi/timesFM_stroke/blob/main/llmcausality.png)
+![Animation Demo](https://github.com/alecrimi/timesFM_stroke/blob/main/bezierplot.gif)
 
 This repository comprises the script used to run the Google Time Series Foundation Model to predict fMRI data and to create a causality framework Granger-like.
 
@@ -15,4 +15,4 @@ finetuning_brain_control.ipynb and  finetuning_brain_patient.ipynb evaluate agai
 MOUsimulations_with_multipletestingcorrection.ipynb is the script containing the causality analysis on netwoks with causal relationship according to Multivariate Ornstein-Uhlenbeck processes.
 
 There is also a simpler test with logistic map time series at a chaotic regime
-![Static Plot]([https://i.imgur.com/your-other-image-id.png](https://github.com/alecrimi/timesFM_stroke/blob/main/logmap.png))
+![Static Plot](https://github.com/alecrimi/timesFM_stroke/blob/main/logmap.png)
