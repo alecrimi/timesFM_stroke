@@ -1,5 +1,9 @@
 This repository comprises the script used to run the Google Time Series Foundation Model to predict fMRI data and to create a causality framework Granger-like.
 
+As in "Prediction and Causality of functional MRI and synthetic signal using a Zero-Shot Time-Series Foundation Model"
+Alessandro Crimi, Andrea Brovelli https://arxiv.org/abs/2509.12497
+
+
 The tested fMRI data are obtained from the data shared by Prof. Corbetta:  10.1016/j.neuron.2015.02.027, data are not public due to privacy restrictions but can be obtained contacting
 the authors. 
 
